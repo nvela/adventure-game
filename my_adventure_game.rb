@@ -1,5 +1,6 @@
-require_relative "first_path"
 require_relative "start_adventure"
+require_relative "left_and_right_paths"
+require_relative "chasm_path"
 
 puts '------'
 puts ''
